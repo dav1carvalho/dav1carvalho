@@ -1,6 +1,6 @@
 ## Olá, meu nome é Davi! 👋
 
-- 🎓 Estudante de Sistemas de Informação na Universidade Federal de Lavras - UFLA
+- 🎓 Graduando em Sistemas de Informação na Universidade Federal de Lavras - UFLA
 - 🎓 Tecnico em informática pelo SENAI - MG
 - 💻 Atualmente sou Product Owner na Comp Júnior
 - 📫 Você pode me encontrar em:
