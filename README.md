@@ -33,7 +33,6 @@
 
 ![Python](https://img.shields.io/badge/-Python-555555?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![Vue.JS](https://img.shields.io/badge/-Vue.js-555555?style=flat&logo=vue.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-555555?style=flat&logo=node.js)
