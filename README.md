@@ -21,7 +21,7 @@
 
 ---
 
-### Linguages e tecnologias que eu estudo
+### Linguagens e tecnologias que eu estudo
 
 ![C++](https://img.shields.io/badge/-C++-555555?style=flat&logo=c%2B%2B)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
