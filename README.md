@@ -8,5 +8,4 @@ Here are some ideas to get you started:
 - 💻 Atualmente sou Product Owner na Comp Júnior
 - 🌱 Estou aprendendo C++, Java, Python, HTML, CSS e JavaScript ...
 - 📫 Você pode me encontrar em:
-![Linkedin](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Flinkedin_174857&psig=AOvVaw2CEzOOgRA_FHhKJQTr-Yqb&ust=1613155104822000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjD2pm94u4CFQAAAAAdAAAAABAJ)
-
+<img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613069721~hmac=0c8f802372bd48af09a7efdd016d53d3" alt="Ícone Linkedin"><a href="https://www.linkedin.com/in/dav1carvalho/"
