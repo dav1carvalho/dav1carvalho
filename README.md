@@ -3,7 +3,10 @@
 - 🎓 Graduando em Sistemas de Informação na  UFLA - Universidade Federal de Lavras
 - 🎓 Tecnico em informática pelo SENAI - MG
 - 💻 Atualmente sou Product Owner na [Comp Júnior](https://www.compjunior.com.br/) e Analista de Negócios na [Lemobs](https://lemobs.com.br/)
-- 📫 Você pode me encontrar em:
+
+---
+
+### 📫 Você pode me encontrar em:
 
 <a target="_blank" href="https://www.linkedin.com/in/dav1carvalho/">
   <img align="left" alt="LinkedIN" width="25px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" /> </a>
