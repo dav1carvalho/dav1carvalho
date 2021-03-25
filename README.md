@@ -6,7 +6,7 @@
 
 ---
 
-### 📫 Você pode me encontrar em:
+### Você pode me encontrar por aqui:
 
 <a target="_blank" href="https://www.linkedin.com/in/dav1carvalho/">
   <img align="left" alt="LinkedIN" width="25px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" /> </a>
