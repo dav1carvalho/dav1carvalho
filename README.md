@@ -1,3 +1,9 @@
+
+<p>
+<a href="https://github.com/dav1carvalho/dav1carvalho/blob/main/README.md">EN</a> | PT
+</p>
+
+
 ## Olá, meu nome é Davi! 👋
 
 - 🎓 Graduando em Sistemas de Informação na  UFLA - Universidade Federal de Lavras
