@@ -3,7 +3,7 @@
 
 - 🎓 Graduando em Sistemas de Informação na  UFLA - Universidade Federal de Lavras
 - 🎓 Tecnico em informática pelo SENAI - MG
-- 💻 Atualmente sou Product Owner na [Comp Júnior](https://www.compjunior.com.br/) e Estagiário em Gestão de Produto na [Lemobs](https://lemobs.com.br/)
+- 💻 Atualmente sou Product Owner na [Comp Júnior](https://www.compjunior.com.br/) e Estagiário em Business Analyst na [Keyrus](http://keyrus.com.br/)
 
 ---
 
