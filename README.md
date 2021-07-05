@@ -1,13 +1,15 @@
 
-## Olá, meu nome é Davi! 👋
+## Hello! My name is Davi! 👋
 
-- 🎓 Graduando em Sistemas de Informação na  UFLA - Universidade Federal de Lavras
-- 🎓 Tecnico em informática pelo SENAI - MG
-- 💻 Atualmente sou Product Owner na [Comp Júnior](https://www.compjunior.com.br/) e Estagiário em Business Analyst na [Keyrus](http://keyrus.com.br/)
+- 🎓 Undergraduate in Information Systems at Universidade Federal de Lavras (UFLA) - Minas Gerais, Brazil
+- 🎓 Computer Technician by SENAI - Minas Gerais, Brazil
+- 💻 I'm currently Product Owner at [Comp Júnior](https://www.compjunior.com.br/) and intern in Business Analyst at [Keyrus](http://keyrus.com.br/)
+- 📚 Immersed in the technological universe with the desire to learn more and more
+- 💡 "Doubt is the beginning of wisdom"
 
 ---
 
-### Você pode me encontrar por aqui:
+### Here are some social networks you can find me:
 
 <a target="_blank" href="https://www.linkedin.com/in/dav1carvalho/">
   <img align="left" alt="LinkedIN" width="25px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" /> </a>
@@ -23,23 +25,5 @@
 
 <br>
 
----
 
-### Linguagens e tecnologias que eu estudo
 
-![C++](https://img.shields.io/badge/-C++-555555?style=flat&logo=c%2B%2B)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-
-### Linguagens e tecnologias que eu quero aprender
-
-![Python](https://img.shields.io/badge/-Python-555555?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Vue.JS](https://img.shields.io/badge/-Vue.js-555555?style=flat&logo=vue.js)
-![Node.js](https://img.shields.io/badge/-Node.js-555555?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-ExpressJS-555555?style=flat&logo=express)
-
----
