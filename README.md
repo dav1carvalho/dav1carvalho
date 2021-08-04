@@ -23,10 +23,7 @@
 
 ---
 ## Contributions & Commits:
-<div>
-  
 ![Snake animation](https://github.com/dav1carvalho/dav1carvalho/blob/output/github-contribution-grid-snake.svg)
   
-</div>
 
 
