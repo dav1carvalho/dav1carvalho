@@ -3,7 +3,7 @@
 
 - 🎓 Undergraduate in Information Systems at Universidade Federal de Lavras (UFLA) - Minas Gerais, Brazil
 - 🎓 Computer Technician by SENAI - Minas Gerais, Brazil
-- 💻 I'm currently working as an intern in Business Analyst at [Keyrus](http://keyrus.com.br/)
+- 💻 I'm currently working as a Business Analyst at [Keyrus](http://keyrus.com.br/)
 - 📚 Immersed in the technological universe with the desire to learn more and more
 - 💡 "Doubt is the beginning of wisdom"
 
